@@ -17,7 +17,7 @@
     "@types/lodash": "^4.14.134",
     "@types/socket.io": "^2.1.2",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash": "^4.17.11",
     "socketio": "^1.0.0",
     "ts-node": "^8.2.0",
